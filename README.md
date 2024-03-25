@@ -27,19 +27,31 @@ We have conclusions about various factors affecting booking like month of year,r
 
 **Conclusion**
 
-
 There are two types of Hotel : Resort and City
+
 City Hotel is preferred over Resort Hotel
+
 72.48% hotels are not cancelled
+
 2016 is year with most booking
+
 61.07% of daily revenue is earned by city hotel and 38.93% by resort hotel
+
 96.14% guests are not repeated while only 3.86% guests are repeated.
-August is the busiest month of the year
+
+August is the busiest month of the year.
+
 Approximately 75% customer are transient type.
+
 BB is most preferred meal type.
+
 TA/TO is highest distribution channel.
+
 Agent 9 has made most booking.
+
 City Hotel have higher waiting time and higher ADR.
-As number of people increases adr increases telling both are postively related
+
+As number of people increases adr increases telling both are postively related.
+
 Total stay on an average is less than 4 days for both the hotel types.
 As number of days of stay increases adr decreases.
