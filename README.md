@@ -25,7 +25,7 @@ The first thing I like to do when analyzing my variables is visualizing it throu
 
 We have conclusions about various factors affecting booking like month of year,room type.To know more conclusion kindly refer last segment of the project.
 
-**CONCLUSION**
+**Conclusion**
 
 
 There are two types of Hotel : Resort and City
