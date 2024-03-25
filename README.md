@@ -24,7 +24,9 @@ Last thing done by me was handling outliers in dataset.Once I have done cleaning
 The first thing I like to do when analyzing my variables is visualizing it through a correlation matrix because its the fastest way to develop a general understanding of all of my variables,followed by Univariate and bivariate analysis.Visualization is one of key factor that helps us undersatnding relationships,making conclusion or understanding trends.I have drawn all conclusions with help of different types of charts like scatter plot,bar charts , pie charts. In Univariate analysis indiviual column/variable has been picked up and analysis has been made like which hotels city or resort are preferred, which hotel has high cancellation rate. In Bivariate analysis two columns have been picked up and their effect on each other is seen and coclusion is drawn how they are related.Various observation like the busiest month of year,type of room preferred by guest are observed and conclusion is made how to make best use of these observation in order to have better revenue. Such analysis help us to find various factors that helps revenue to go up, like which agent is bringing more business,which kind of hotel is preferred. The companies can use such conclusions and make better revenue hence solving the purpose of doing EDA.
 
 We have conclusions about various factors affecting booking like month of year,room type.To know more conclusion kindly refer last segment of the project.
+
 **CONCLUSION**
+
 
 There are two types of Hotel : Resort and City
 City Hotel is preferred over Resort Hotel
