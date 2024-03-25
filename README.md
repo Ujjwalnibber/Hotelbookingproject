@@ -1,4 +1,5 @@
 **Problem Statement**
+
  Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was 
  likely to receive a disproportionately high number of special requests? This hotel booking dataset can help you explore those questions!
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, 
@@ -6,6 +7,7 @@ the number of adults, children, and/or babies, and the number of available parki
 Explore and analyze the data to discover important factors that govern the bookings.
 
 **Project Summary**
+
 In this EDA project we shall be exploring data to discover important factors that govern booking.We shall look at all the factors analyze them and pen down our observations. Exploratory Data Analysis (EDA), 
 also known as Data Exploration, is a step in the Data Analysis Process, where a number of techniques are used to better understand the dataset being used.There are some main component of EDA,these are:
 
